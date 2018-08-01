@@ -48,3 +48,6 @@ function mergeSort(array, callback) {
 //     })
     
 // console.log(sorted)
+
+
+// PRACTICE GIT TEST
